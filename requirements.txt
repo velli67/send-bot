@@ -1,0 +1,5 @@
+pyrogram
+python-decouple
+requests
+TgCrypto
+psycopg2
